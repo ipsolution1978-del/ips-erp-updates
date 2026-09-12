@@ -1,0 +1,6 @@
+{
+  "version": "1.0.10",
+  "download_url": "https://github.com/ipsolution1978-del/ips-erp-updates/releases/download/v1.0.10/IPS_ERP_Setup_v1.0.10.exe",
+  "notes": "- Dashboard redesign + Quick Actions\n- Design system / consistent UI across all forms\n- Outstanding Report crash fix\n- English error messages",
+  "sha256": "08b42aef57438d96a89d6ccf6fdcc288a617295d43cfb2073b3e09984f410229"
+}
